@@ -1,0 +1,29 @@
+@import './components/badge.scss';
+
+@font-face{
+  font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins/Poppins-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face{
+  font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins/Poppins-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face{
+  font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins/Poppins-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face{
+  font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins/Poppins-ExtraBold.ttf');
+    font-weight: 800;
+}
+
+body{
+  font-family: 'Poppins', Helvetica, sans-serif;
+}
